@@ -1,5 +1,5 @@
 site_name: Provus User Guide
-site_url: https://anthonyznova.github.io/Provdoc
+site_url: https://anthonyznova.github.io/Provdoc/
 theme:
   name: material
   logo: images/icon.ico
@@ -26,6 +26,7 @@ theme:
     - pymdownx.blocks.caption
 
 nav:
+  - Home: index.md
   - Home: 
     - Overview: about/overview.md
     - Algorithm: about/algorithm.md

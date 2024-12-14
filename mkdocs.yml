@@ -16,7 +16,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
+    #- navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
@@ -26,7 +26,7 @@ theme:
     - pymdownx.blocks.caption
 
 nav:
-  - Overview: about/overview.md
+  - Home: about/overview.md
   - About:
     - Algorithm: about/algorithm.md
     - Conductors: about/conductors.md

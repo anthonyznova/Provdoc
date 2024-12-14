@@ -26,7 +26,7 @@ theme:
     - pymdownx.blocks.caption
 
 nav:
-  - Home: about/overview.md
+  - Home: /index.md
     - Algorithm: about/algorithm.md
     - Conductors: about/conductors.md
   - Getting Started:

@@ -1,5 +1,5 @@
 site_name: Provus User Guide
-site_url: https://anthonyznova.github.io/Provdoc/about/overview/
+site_url: https://anthonyznova.github.io/Provdoc
 theme:
   name: material
   logo: images/icon.ico

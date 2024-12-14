@@ -27,7 +27,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Home: 
+  - Provus: 
     - Overview: about/overview.md
     - Algorithm: about/algorithm.md
     - Conductors: about/conductors.md

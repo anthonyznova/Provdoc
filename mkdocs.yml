@@ -1,0 +1,69 @@
+site_name: Provus User Guide
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  logo: images/icon.ico
+  favicon: images/icon.ico
+  palette:
+    primary: 'brown'
+    accent: 'brown'
+  features:
+    - navigation.instant
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  markdown_extensions:
+    - attr_list
+    - md_in_html
+    - pymdownx.blocks.caption
+
+nav:
+  - Home: 
+    - Overview: about/overview.md
+    - Algorithm: about/algorithm.md
+    - Conductors: about/conductors.md
+  - Getting Started:
+    - Installation: getting_started/installation.md
+    - Licenses: getting_started/licenses.md
+  - The Provus console:
+    - Taskbar: provus_console/taskbar.md
+    - World Tree: provus_console/world_tree.md
+    - Plotting: provus_console/plotting.md
+    - Simulation: provus_console/simulation.md
+    - Loop Library: provus_console/loop_library.md
+    - Induction Vectors: provus_console/induction_vector.md
+    - GA-Link: provus_console/ga_link.md
+    - Waveform Sampling: provus_console/waveform_sampling.md
+    - Results Timeline: provus_console/results_timeline.md
+    - Inversion: provus_console/inversion.md
+  - The Provus Viewport:
+    - Navigating in the viewport: provus_viewport/controls.md
+    - Keyboard shortcuts: provus_viewport/keyboard_shortcuts.md
+  - Objects: 
+    - Data profiles: provus_objects/data_profiles.md
+    - Plates: provus_objects/plates.md
+    - Ribbons: provus_objects/ribbons.md
+    - Loops: provus_objects/loopobj.md
+    - Vector fields: provus_objects/vector_fields.md
+    - Geology: provus_objects/geology.md
+  - Project Directory Structure:
+    - Creating an empty project: provus_project/create_project.md
+    - Project file (.ppf): provus_project/projfile.md
+    - Loop Library: provus_project/txloops.md
+    - Conductor cache & Provus conductors: provus_project/conductor_cache.md
+    - Provus options: provus_project/options.md
+    - Additional Objects: provus_project/additional_obj.md
+    - Simulation results: provus_project/results.md
+  - Creating your first Provus Project:
+    - Import data or create synthetic: provus_modelling/create_synthetic.md
+    - Create conductors and simulations: provus_modelling/create_conductors.md
+    - Run simulations and plot results: provus_modelling/fit_conductors.md
+    - Export results and save conductors: provus_modelling/save_export.md

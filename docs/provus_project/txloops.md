@@ -1,0 +1,3 @@
+There are two ways of importing transmitter loops into Provus, including the loop coordinates in the data profiles (.TEM files) or placing a separate loop file into the loop library folder. The loop file is expected to be in the format of a csv containing the loop coordinates. For large transmitter loops or loops that are used repeatedly it can be advantageous for the user to reduce the number of vertices and place this low res or simplified version of the loop file in the loop library folder. 
+
+![An example of the contents of the loop library folder in the Provus project directory where the expected format of the transmitter data files is a plain text file containing the x,y,z coordinates of the loop](../images/loopfolder.PNG)

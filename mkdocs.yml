@@ -65,6 +65,6 @@ nav:
     - Simulation results: provus_project/results.md
   - Creating your first Provus Project:
     - Import data or create synthetic: provus_modelling/create_synthetic.md
-    - Create conductors and simulations: provus_modelling/create_conductors.md
-    - Run simulations and plot results: provus_modelling/fit_conductors.md
+    - Create plate and ribbon conductors: provus_modelling/create_conductors.md
+    - Create simulation requests and plots: provus_modelling/fit_conductors.md
     - Export results and save conductors: provus_modelling/save_export.md

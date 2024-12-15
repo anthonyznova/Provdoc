@@ -16,7 +16,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    #- navigation.expand
+    - navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
@@ -26,6 +26,7 @@ theme:
     - pymdownx.blocks.caption
 
 nav:
+  - '': about/overview.md  # Empty string makes it the default/index page
   - About:
     - Overview: about/overview.md
     - Algorithm: about/algorithm.md

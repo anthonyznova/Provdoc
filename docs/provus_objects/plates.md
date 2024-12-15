@@ -14,9 +14,9 @@ The process of accessing this dialogue window is shown here: <https://youtu.be/n
 
 The options available to the user are detailed and defined below:
 
-![The plate object dialog window in Provus, divided into numbered containers for further explanation](../images/platedialoglabels.png)
+![The plate object dialog window in Provus, divided into numbered containers for further explanation](../images/plate0.png)
 
-![A container of the provus plate object dialog](../images/platelabel1.png)
+![A container of the provus plate object dialog](../images/plate1.png)
 
 1. This section of the plate dialog UI is where the user can vary the size, orientation and conductance of the plate. A brief description of each parameter is listed below: 
 
@@ -53,7 +53,7 @@ The options available to the user are detailed and defined below:
     * **Promote plate to surface**
      * Converts the active plate to a surface object allowing the user to add and manipulate vertices to create ribbon like conductors
 
-    ![A container of the provus plate object dialog](../images/platelabel2.png)
+    ![A container of the provus plate object dialog](../images/plate2.png)
     
 2. This section of the plate dialog UI allows the user to paint the plates surface with different data sets that are stored from simulation requests. The user may select the specific simulation request and transmitter loop being referenced from the dropdown menus. A brief description of each function is listed below:
 
@@ -75,7 +75,7 @@ The options available to the user are detailed and defined below:
     * **Plate transparency**
         * The slider allows the user to change the transparency of the selected plate in the viewport
 
-    ![A container of the provus plate object dialog](../images/platelabel3.png)
+    ![A container of the provus plate object dialog](../images/plate3.png)
     
 3. The text box at the top of this section of the UI displays the path to where the conductor is stored locally. Directly under this text box the user can change the ratio increment for the dip and dip direction of the plate. This can be used to fine tune the level of granularity required when changing plate parameters. In this section of the UI there is a list of checkboxes the user can toggle on or off depending on their needs. These options are detailed below:
 

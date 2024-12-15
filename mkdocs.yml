@@ -31,7 +31,7 @@ nav:
     - Overview: about/overview.md
     - Algorithm: about/algorithm.md
     - Conductors: about/conductors.md
-  - Getting Started:
+  - Getting started:
     - Installation: getting_started/installation.md
     - Licenses: getting_started/licenses.md
   - The Provus console:
@@ -45,7 +45,7 @@ nav:
     - Waveform Sampling: provus_console/waveform_sampling.md
     - Results Timeline: provus_console/results_timeline.md
     - Inversion: provus_console/inversion.md
-  - The Provus Viewport:
+  - The Provus viewport:
     - Navigating in the viewport: provus_viewport/controls.md
     - Keyboard shortcuts: provus_viewport/keyboard_shortcuts.md
   - Objects: 
@@ -55,7 +55,7 @@ nav:
     - Loops: provus_objects/loopobj.md
     - Vector fields: provus_objects/vector_fields.md
     - Geology: provus_objects/geology.md
-  - Project Directory Structure:
+  - Project directory structure:
     - Creating an empty project: provus_project/create_project.md
     - Project file (.ppf): provus_project/projfile.md
     - Loop Library: provus_project/txloops.md
@@ -63,7 +63,7 @@ nav:
     - Provus options: provus_project/options.md
     - Additional Objects: provus_project/additional_obj.md
     - Simulation results: provus_project/results.md
-  - Creating your first Provus Project:
+  - Creating your first Provus project:
     - Import data or create synthetic: provus_modelling/create_synthetic.md
     - Create plate and ribbon conductors: provus_modelling/create_conductors.md
     - Create simulation requests and plots: provus_modelling/fit_conductors.md

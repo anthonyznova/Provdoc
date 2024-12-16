@@ -42,4 +42,4 @@ The simplest is to promote a Provus Plate model which re-casts the plate as a Pr
 A Provus Ribbon file can also be created by hand using polylines exported from existing geological models.
 
 ![Basic ribbon](../images/ribbon_label.PNG)
-*Ribbon conductor (red) and associated canvas (grey) in the Provus Viewport*
+*Ribbon conductor (blue) and associated canvas (yellow) in the Provus Viewport*

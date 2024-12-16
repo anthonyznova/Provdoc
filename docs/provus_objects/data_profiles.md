@@ -13,7 +13,7 @@ The dialog window will allow the user to change the color, thickness and toggle 
 
 In this dialog window there is a checkbox to make a "reference point" visible in the viewport, this reference point is a disk of user determined size which marks the location down hole that has been selected in the associated plotting window by right clicking at a chosen depth or distance. The length and thickness of the reference marker and its color can be changed within this object dialog. This is useful as it provides the user with the ability to correlate any features of the response to a location in 3d space downhole or along profile. An example of a reference point being applied to a borehole in the Provus viewport is shown below.
 
-![The provus viewport depicting a reference marker down a borehole](../images/reference.PNG)
+![The provus viewport depicting a reference marker down a borehole](../images/borehole_new.PNG)
 
 When the "Draw component orientation" box is checked, red, green and blue arrows will be populated along the profile or down hole in the Provus viewport, the length of these arrows can be changed by the user with the corresponding "Orientation vector length" option in the object dialog. The ability to plot the component orientations down hole or along a profile is a powerful tool to use when modelling and as a QAQC tool. An image is shown below in which the color of the arrows correspond to the component of the response (RGB = XYZ = AUV)
 

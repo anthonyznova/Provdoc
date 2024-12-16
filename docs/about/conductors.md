@@ -18,7 +18,7 @@ Reference Point: The reference point is the point about which the the plate is r
 
 The plate coordinates convention can be seen in the figure below.
 
-![Basic plate](../images/basicplate.png)
+![Basic plate](../images/plate_label.PNG)
 *A plate conductor object in the Provus Viewport*
 
 Dip: the dip of the plate zero for horizontal and 90 for vertical.
